@@ -1,7 +1,7 @@
 # Assessmnet-Rails
 
-#changes made for functionality+code quality+documentation 
-#-application_controller.rb (app/controllers/applicatio_controller.rb) 
+changes made for functionality+code quality+documentation 
+# -application_controller.rb (app/controllers/applicatio_controller.rb) 
 #-article.rb (app/models)
 #-edit.html.erb(app/views/layouts) 
 #-index.html.erb(app/views/layouts)
